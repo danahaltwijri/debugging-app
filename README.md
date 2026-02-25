@@ -90,7 +90,9 @@ This project simulates a real developer productivity tool and demonstrates:
 ## 👩‍💻 Author
 
 **Danah Mansoor Altwijri**
+
 Computer Science Graduate
+
 Flutter Developer | Software Engineer
 
 ---
