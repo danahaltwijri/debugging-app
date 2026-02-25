@@ -17,6 +17,18 @@ A modern Flutter debugging assistant that helps developers track errors, save so
 
 ---
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="250">
+  <img src="assets/screenshots/favorites.png" width="250">
+  <img src="assets/screenshots/add.png" width="250">
+  <img width="1307" height="891" alt="1" src="https://github.com/user-attachments/assets/a11fe8d5-e464-4859-a0c9-6a4a43814eb9" />
+
+</p>
+
+---
+
 ## 🎬 Demo
 [watch demo](https://drive.google.com/file/d/1Z6wkzRIoCLawz8cQuvEcV2RNwP3MRtEs/view?usp=drive_link)
 ![Demo-debugging-app](https://github.com/user-attachments/assets/134432bd-e81e-4bd1-b08d-e037386b66df)
