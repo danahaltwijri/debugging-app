@@ -24,15 +24,15 @@ A modern Flutter debugging assistant designed to help developers track errors, s
 ## 📱 Screenshots
 
 <p align="center">
-<img width="1307" height="891" alt="1" src="https://github.com/user-attachments/assets/ca8bf1ce-c122-4d47-bb0f-d11a35891eef" />
-<img width="1311" height="886" alt="2" src="https://github.com/user-attachments/assets/1e21a793-ae02-46b5-a1d7-8b867c66efad" />
-<img width="1307" height="881" alt="3" src="https://github.com/user-attachments/assets/9f4e0b94-9717-45e0-96ca-ab7e459cf9d1" />
+<img src="https://github.com/user-attachments/assets/64e64ca1-f44c-43f1-906a-b7a06cb058bc" width="250"/>
+<img src="https://github.com/user-attachments/assets/dccb3bf8-d934-4880-8f29-d450ae568a4f" width="250"/>
+<img src="https://github.com/user-attachments/assets/d7c707dd-b55e-4a36-9a82-370c8c668185" width="250"/>
 </p>
 
 <p align="center">
-<img width="1310" height="884" alt="4" src="https://github.com/user-attachments/assets/e757b8e7-5b05-4929-b801-4e9070ba93da" />
-<img width="1317" height="881" alt="5" src="https://github.com/user-attachments/assets/f7deb215-fbb1-4b66-9410-54656cb729b2" />
-<img width="1320" height="877" alt="6" src="https://github.com/user-attachments/assets/adb9bc06-a34f-49d4-ac18-8f5fe8ae6c37" />
+<img src="https://github.com/user-attachments/assets/acea5ef1-f52b-4e32-b3d1-5a122a209730" width="250"/>
+<img src="https://github.com/user-attachments/assets/b704a23f-ed66-4a6f-b38f-f1eccba214a0" width="250"/>
+<img src="https://github.com/user-attachments/assets/6e2af3cc-9819-411d-ab04-8a8bc83c8a4c" width="250"/>
 </p>
 
 ---
@@ -90,7 +90,6 @@ This project simulates a real developer productivity tool and demonstrates:
 ## 👩‍💻 Author
 
 **Danah Mansoor Altwijri**
-
 Computer Science Graduate
 Flutter Developer | Software Engineer
 
