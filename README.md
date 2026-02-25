@@ -20,11 +20,12 @@ A modern Flutter debugging assistant that helps developers track errors, save so
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="250">
-  <img src="assets/screenshots/favorites.png" width="250">
-  <img src="assets/screenshots/add.png" width="250">
-  <img width="1307" height="891" alt="1" src="https://github.com/user-attachments/assets/a11fe8d5-e464-4859-a0c9-6a4a43814eb9" />
-
+<img width="1311" height="879" alt="6" src="https://github.com/user-attachments/assets/64e64ca1-f44c-43f1-906a-b7a06cb058bc" />
+<img width="1317" height="881" alt="5" src="https://github.com/user-attachments/assets/dccb3bf8-d934-4880-8f29-d450ae568a4f" />
+<img width="1310" height="884" alt="4" src="https://github.com/user-attachments/assets/d7c707dd-b55e-4a36-9a82-370c8c668185" />
+<img width="1307" height="881" alt="3" src="https://github.com/user-attachments/assets/acea5ef1-f52b-4e32-b3d1-5a122a209730" />
+<img width="1311" height="886" alt="2" src="https://github.com/user-attachments/assets/b704a23f-ed66-4a6f-b38f-f1eccba214a0" />
+<img width="1307" height="891" alt="1" src="https://github.com/user-attachments/assets/7dee3fbf-a029-4aed-ad43-8af4bb85eed8"
 </p>
 
 ---
