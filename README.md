@@ -40,15 +40,14 @@ A modern Flutter debugging assistant designed to help developers track errors, s
 ## 🎬 Demo
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1Z6wkzRIoCLawz8cQuvEcV2RNwP3MRtEs/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1EmkXnl0Tf0L15puzHwQLxniQQqH2jhLR/view?usp=drive_link">
 Watch full demo video
 </a>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/134432bd-e81e-4bd1-b08d-e037386b66df" width="300"/>
+<img src="https://github.com/user-attachments/assets/2cb88404-042b-426d-ba73-0ab79262f980" width="300"/>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
